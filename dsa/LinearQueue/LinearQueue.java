@@ -44,7 +44,7 @@ public class LinearQueue {
 			return ;
 		}
 		else {
-			System.out.println("\n"+q[r]+" is the last element in queue");
+			System.out.println("\n"+q[f]+" is the front element in queue");
 		}
 	}
 	
