@@ -6,7 +6,7 @@ public class BinaryTree {
 
     public Node root;
 
-    // Insert (Level Order)
+    
     public void insert(int data) {
         Node newNode = new Node(data);
 
