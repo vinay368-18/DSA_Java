@@ -15,7 +15,7 @@ public class ArrayListImplementation {
 		System.out.println(list);
 		list.remove(Integer.valueOf(22)); //remove by value
 		System.out.println(list);
-		list.add(2,500);  // add by index
+		list.add(2,500);  // adding by index
 		System.out.println(list);
 		
 
