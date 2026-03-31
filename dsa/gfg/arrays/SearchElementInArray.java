@@ -4,7 +4,6 @@ import java.util.*;
 public class SearchElementInArray {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int[] a= {20,40,60,80,100,120,140};
 		int key1 = 60;
 		int key2 = 70;
