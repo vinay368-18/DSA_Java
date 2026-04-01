@@ -1,4 +1,4 @@
-package dsa.doubleLinkedList;
+package doubleLinkedList;
 
 public class Node {
 	int data;

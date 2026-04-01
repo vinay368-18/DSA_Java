@@ -1,4 +1,4 @@
-package dsa.LinearQueue;
+package LinearQueue;
 import java.util.Scanner;
 public class MainLinearQueue {
 

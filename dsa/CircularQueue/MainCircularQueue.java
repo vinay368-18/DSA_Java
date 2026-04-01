@@ -1,4 +1,4 @@
-package dsa.CircularQueue;
+package CircularQueue;
 import java.util.Scanner;
 public class MainCircularQueue {
 

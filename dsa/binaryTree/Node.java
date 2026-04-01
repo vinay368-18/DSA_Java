@@ -1,4 +1,4 @@
-package dsa.binaryTree;
+package binaryTree;
 
 public class Node {
     public int data;

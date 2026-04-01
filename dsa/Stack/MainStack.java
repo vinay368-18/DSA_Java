@@ -1,4 +1,4 @@
-package dsa.Stack;
+package Stack;
 import java.util.Scanner;
 
 public class MainStack {

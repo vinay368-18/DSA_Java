@@ -1,4 +1,4 @@
-package dsa.Stack;
+package Stack;
 
 public class Stack {
 	
@@ -50,7 +50,7 @@ public class Stack {
 		}
 		else {
 			System.out.println("Stack is not empty");
-			System.out.println("Stack has "+top+1+" elements out of "+max+"Elements" );
+			System.out.println("Stack has "+(top+1)+" elements out of "+max+"Elements" );
 		}
 	}
 	

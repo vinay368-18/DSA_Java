@@ -1,4 +1,4 @@
-package dsa.gfg.arrays;
+package gfg.arrays;
 import java.util.*;
 public class ArrayListImplementation {
 

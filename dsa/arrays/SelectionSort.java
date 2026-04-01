@@ -1,4 +1,4 @@
-package dsa.arrays;
+package arrays;
 
 public class SelectionSort {
 

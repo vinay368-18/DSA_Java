@@ -1,4 +1,4 @@
-package dsa.singleLinkedList;
+package singleLinkedList;
 import java.util.Scanner;
 
 public class MainSingleLinkedList {
@@ -6,7 +6,7 @@ public class MainSingleLinkedList {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-		
+	 	
 		SinglyLinkedList list = new SinglyLinkedList();
 		
 		int choice,elem,pos;

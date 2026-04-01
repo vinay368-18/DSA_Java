@@ -1,4 +1,4 @@
-package dsa.CircularLinkedList;
+package CircularLinkedList;
 import java.util.Scanner;
 
 

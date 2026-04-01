@@ -1,4 +1,4 @@
-package dsa.LinearQueue;
+package LinearQueue;
 
 public class LinearQueue {
 	
