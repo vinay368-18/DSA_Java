@@ -7,6 +7,7 @@ public class CamelCaseConversion {
 		String s = "i am learning dsa with java";
 		System.out.println("Original String:"+s);
 		String result = covertToCamel(s);
+
 		System.out.println("After coverting to Camel case:"+result);
 	}
 	static String covertToCamel(String s) {
