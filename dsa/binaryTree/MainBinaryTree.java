@@ -31,6 +31,7 @@ public class MainBinaryTree {
 
         bt.delete(3);
 
+        
         System.out.print("After Deletion (Level Order): ");
         bt.levelOrder();
     }
