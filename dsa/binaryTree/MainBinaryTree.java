@@ -10,6 +10,7 @@ public class MainBinaryTree {
         bt.insert(3);
         bt.insert(4);
         bt.insert(5);
+        
 
         System.out.print("Inorder: ");
         bt.inorder(bt.root);
