@@ -7,7 +7,6 @@ public class subsetSum {
 		int r = countPairs(arr,10);
 		System.out.println("number of subsets for sum 10:"+r);
 	}
-
 	private static int countPairs(int[] arr, int target) {
 		  HashMap<Integer, Integer> map = new HashMap<>();
 	        int count = 0;
