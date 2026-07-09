@@ -17,7 +17,7 @@ public class Disjoint {
 	}
 
 	static boolean checkDisjoint(int[] a,int[] b) {
-		HashSet<Integer> set = new HashSet<>();
+		Set<Integer> set = new HashSet<>();
 		for(int i:a)
 			set.add(i);
 		for(int i:b) {
