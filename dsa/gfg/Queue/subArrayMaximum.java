@@ -11,10 +11,11 @@ public class subArrayMaximum {
 		System.out.println(list);
 	}
 	static ArrayList<Integer> maxOfSubArrays(int[] arr,int k){
-		int i,j,max=0;
+		int i,j,max;
 		Queue<Integer> q = new LinkedList<>();
 		i = 0;
 		while(i<=arr.length - k) {
+			max = 0;
 			j = i;
 			while(j<i+k) {
 				if(arr[j]>max)
