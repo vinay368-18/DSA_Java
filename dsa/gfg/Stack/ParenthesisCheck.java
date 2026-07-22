@@ -2,7 +2,7 @@ package gfg.Stack;
 import java.util.*;
 public class ParenthesisCheck {
 	public static void main(String[] args) {
-		String sg = "[()(]{}";
+		String sg = "[()()]{}";
 		boolean r = isValid(sg);
 		System.out.println("Valid:"+r);
 	}
