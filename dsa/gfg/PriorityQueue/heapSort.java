@@ -1,6 +1,6 @@
 package gfg.PriorityQueue;
 
-public class HeapSort {
+public class heapSort {
 
     public static void main(String[] args) {
         int[] arr = {10, 5, 3, 8, 2};
