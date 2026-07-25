@@ -12,10 +12,10 @@ public class countIslands {
                 {'L','W','L','L','W'}
         };
 
-        System.out.println(countIslands(grid));
+        System.out.println(countislands(grid));
     }
 
-    static int countIslands(char[][] grid) {
+    static int countislands(char[][] grid) {
 
         int n = grid.length;
         int m = grid[0].length;
