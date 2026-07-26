@@ -9,6 +9,7 @@ public class Factorial {
 		n = sc.nextInt();
 		int result = fact(n);
 		System.out.println("Result:"+result);
+		sc.close();
 	}
 	static int fact(int n) {
 		if(n==0 || n==1) {

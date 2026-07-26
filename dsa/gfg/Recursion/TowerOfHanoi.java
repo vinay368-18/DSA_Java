@@ -11,6 +11,7 @@ public class TowerOfHanoi {
 		int dest = 3;
 		int aux = 2;
 		System.out.println("Number of moves:"+tower(n,from,aux,dest));
+		sc.close();
 		
 	}
 	static int  tower(int n,int from,int aux,int dest) {

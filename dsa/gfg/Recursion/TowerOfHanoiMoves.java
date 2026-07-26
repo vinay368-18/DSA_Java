@@ -11,7 +11,7 @@ public class TowerOfHanoiMoves {
 		int dest = 3;
 		int aux = 2;
 		tower(n,from,aux,dest);
-		
+		sc.close();
 	}
 	static void  tower(int n,int from,int aux,int dest) {
 		if(n==1) {
