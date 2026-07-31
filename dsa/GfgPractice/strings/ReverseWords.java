@@ -24,13 +24,12 @@ public class ReverseWords {
 			sb.append(str[i]);
 			sb.append(".");
 		}
-		sb.delete(sb.length()-1, sb.length());
-		
-		
-		
-		return sb.toString();
-				
-		
+		String r = sb.toString();
+		while(r.endsWith("."))
+			r = r.substring(0,s.length()-1);
+		while(r.startsWith("."))
+			r = r.substring(1);
+		return r;
 	}
 
 }
