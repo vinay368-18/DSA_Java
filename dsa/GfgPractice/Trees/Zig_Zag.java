@@ -31,6 +31,7 @@ public class Zig_Zag {
 				l.add(temp.data);
 				if(temp.left!=null)
 					q.add(temp.left);
+				
 				if(temp.right!=null)
 					q.add(temp.right);
 			}
