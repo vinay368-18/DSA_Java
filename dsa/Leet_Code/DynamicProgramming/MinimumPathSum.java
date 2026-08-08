@@ -1,4 +1,5 @@
-package Leet_Code;
+package Leet_Code.DynamicProgramming;
+
 
 public class MinimumPathSum {
 
